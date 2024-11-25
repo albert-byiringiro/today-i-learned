@@ -1,8 +1,3 @@
-
-**Status**: Open Source Knowledge
-
-**Tags**: #learning_in_public #today_i_learned #oss
-
 # Meekness Notes
 
 # 25/11/2024
